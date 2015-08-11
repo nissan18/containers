@@ -1,3 +1,7 @@
+/*
+Rewrite the following program without using if-else (or ?:)
+*/
+
 #include <iostream>
 
 using namespace std;
